@@ -1,0 +1,3 @@
+# Props for cam fix
+persist.camera.exif.rotation=off 
+persist.camera.lib2d.rotation=on
