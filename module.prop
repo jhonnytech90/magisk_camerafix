@@ -1,7 +1,7 @@
 id=CAMFIX
 name=Magisk Camera Fix - A001D
-version=v1.0
+version=v1.0.0
 versionCode=9
-author=@raidenkk @jhonatanmiikael
+author=@raidenkk & @jhonatanmiikael
 description=Esse módulo irá solucionar o problema de câmera no Android 11
 support=https://t.me/jhonnytech
