@@ -1,0 +1,7 @@
+ui_print "#############################"
+ui_print "#     CAM FIX - ZB634KL     #"
+ui_print "#  Developed by: @raidenkk  #"
+ui_print "#############################"
+ui_print "[*] Versão: 1.0"
+ui_print "[!] Use apenas no zb634k!"
+ui_print "[*] Use no Android 11!"
